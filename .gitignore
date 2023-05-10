@@ -1,0 +1,15 @@
+# Ignore credentials and tokens
+credentials.json
+token.pickle
+
+# Ignore output files
+forwarded_emails.xlsx
+
+# Ignore Python specific files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment
+venv/
