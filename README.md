@@ -33,7 +33,9 @@ git clone https://github.com/yourusername/forwarded-emails-extractor.git
 
 2. Install the required Python packages:
 
+```
 pip install -r requirements.txt
+```
 
 3. Set up Google OAuth 2.0 credentials:
 - Follow Google's guide on setting up OAuth 2.0 credentials for the Gmail API: [Getting Started with Gmail API](https://developers.google.com/gmail/api/quickstart)
