@@ -27,7 +27,9 @@ Before running the script, make sure you have the following prerequisites instal
 
 1. Clone this repository to your local machine:
 
+```
 git clone https://github.com/yourusername/forwarded-emails-extractor.git
+```
 
 2. Install the required Python packages:
 
@@ -41,7 +43,9 @@ pip install -r requirements.txt
 
 Run the script as follows:
 
+```
 python forwarded_emails_extractor.py
+```
 
 The script will authenticate with your Google account, retrieve forwarded emails, and save them to an Excel file.
 
